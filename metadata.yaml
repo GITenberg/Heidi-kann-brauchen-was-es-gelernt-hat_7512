@@ -1,0 +1,33 @@
+_repo: Heidi-kann-brauchen-was-es-gelernt-hat_7512
+creator:
+  author:
+    agent_name: Spyri, Johanna
+    aliases:
+    - Spyri, Johanna Heusser
+    - Heusser, Johanna Louise
+    birthdate: 1827
+    deathdate: 1901
+    gutenberg_agent_id: '2491'
+    url: http://www.gutenberg.org/2009/agents/2491
+    wikipedia: http://en.wikipedia.org/wiki/Johanna_Spyri
+description: ''
+gutenberg_bookshelf:
+- Children's Literature
+- DE Kinderbuch
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7512'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Mountain life -- Switzerland -- Fiction'
+- !lcsh 'Switzerland -- History -- 19th century -- Fiction'
+- !lcsh 'Orphans -- Fiction'
+- !lcc 'PZ'
+- !lcsh 'Grandfathers -- Fiction'
+title: Heidi kann brauchen, was es gelernt hat
+url: http://www.gutenberg.org/ebooks/7512
